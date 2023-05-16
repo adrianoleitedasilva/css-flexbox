@@ -12,7 +12,7 @@
 
 - [Descrição](#descrição)
 - [Exemplos](#exemplos)
-  - [Flex Container](#flex-container)
+  - [Flex-Container](#flex-container)
   
 # Descrição
 
@@ -22,7 +22,7 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 
 # Exemplos
 
-## Flex Container
+## Flex-Container
 
 - [Display](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/01_display.html "Acessar exemplo do Display")
-- [Flex Direction](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/02_flex_direction.html "Acessar exemplo do Flex Direction")
+- [Flex-Direction](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/02_flex_direction.html "Acessar exemplo do Flex Direction")
