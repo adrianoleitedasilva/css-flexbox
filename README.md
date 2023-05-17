@@ -8,7 +8,7 @@
 ![ShielddoProjeto](https://img.shields.io/github/issues-pr/adrianoleitedasilva/css-flexbox?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/css-flexbox?style=for-the-badge)
 
-![banner](https://user-images.githubusercontent.com/6373438/200974459-c1325f0f-5b63-4796-913e-778136518b84.jpg)
+![CSS-Flexbox](https://github.com/adrianoleitedasilva/css-flexbox/assets/6373438/26c158f2-0641-4572-8f07-f4bf3deb434d)
 
 # Descrição
 
@@ -25,3 +25,5 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 - [Flex Wrap](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/03_flex_wrap.html "Acessar exemplo do Flex Wrap")
 
 ## Flex Items
+
+**Ainda em desenvolvimento.**
