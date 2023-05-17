@@ -10,11 +10,6 @@
 
 ![banner](https://user-images.githubusercontent.com/6373438/200974459-c1325f0f-5b63-4796-913e-778136518b84.jpg)
 
-- [Descrição](#descrição)
-- [Exemplos](#exemplos)
-  - [Flex](#flex)
-  - [Flex Items](#flex-items)
-  
 # Descrição
 
 CSS Flexbox (Flexible Box Layout) é um módulo do CSS que fornece uma maneira eficiente de organizar, alinhar e distribuir elementos em um contêiner. Ele introduz um sistema de layout bidimensional, permitindo que você controle a posição e o comportamento dos elementos em relação ao eixo principal (main axis) e ao eixo transversal (cross axis).
@@ -23,8 +18,7 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 
 # Exemplos
 
-## Flex 
-Container
+## Flex Container
 
 - [Display](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/01_display.html "Acessar exemplo do Display")
 - [Flex Direction](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/02_flex_direction.html "Acessar exemplo do Flex Direction")
