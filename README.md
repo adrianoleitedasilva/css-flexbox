@@ -30,4 +30,9 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 
 ## Flex Items
 
-- [Align Content](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/01_flex_grow.html "Acessar exemplo do Flex Grow")
+- [Flex Grow](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/01_flex_grow.html "Acessar exemplo do Flex Grow")
+- [Flex Basis](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/02_flex_basis.html "Acessar exemplo do Flex Basis")
+- [Flex Shrink](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/03_flex_shrink.html "Acessar exemplo do Flex Shrink")
+- [Flex](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/04_flex.html "Acessar exemplo do Flex")
+- [Order](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/05_order.html "Acessar exemplo do Order")
+- [Align Self](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/06_align_self.html "Acessar exemplo do Align Self")
