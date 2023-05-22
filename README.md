@@ -30,4 +30,4 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 
 ## Flex Items
 
-**Ainda em desenvolvimento.**
+- [Align Content](https://adrianoleitedasilva.github.io/css-flexbox/FlexItem/01_flex_grow.html "Acessar exemplo do Flex Grow")
