@@ -25,6 +25,8 @@ O Flexbox opera com base em um contêiner, que é um elemento pai que envolve um
 - [Flex Wrap](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/03_flex_wrap.html "Acessar exemplo do Flex Wrap")
 - [Flex Flow](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/04_flex_flow.html "Acessar exemplo do Flex Flow")
 - [Justify Content](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/05_justify_content.html "Acessar exemplo do Justify Content")
+- [Align Items](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/06_align_items.html "Acessar exemplo do Align Items")
+- [Align Content](https://adrianoleitedasilva.github.io/css-flexbox/FlexContainer/07_align_content.html "Acessar exemplo do Align Content")
 
 ## Flex Items
 
