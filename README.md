@@ -1,4 +1,4 @@
-![ShielddoProjeto](https://img.shields.io/badge/Projeto-Flexbox-e34f26.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Projeto-CSS_Flexbox-e34f26.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0-e34f26.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/css-flexbox?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/css-flexbox?style=for-the-badge)
