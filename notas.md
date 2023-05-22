@@ -270,3 +270,100 @@ body {
 	color: #333;
 }
 ```
+
+
+### Flex Flow
+
+O flex-flow é um atalho para as propriedades flex-direction e flex-wrap. Você não verá muito o seu uso, pois geralmente quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap.
+
+E quando mudamos o flex-wrap para wrap, mantemos o padrão do flex-direction que é row.
+
+**flex-flow: row nowrap;**
+- Coloca o conteúdo em linha e não permite a quebra de linha.
+
+**flex-flow: row wrap;**
+- Coloca o conteúdo em linha e permite a quebra de linha.
+
+**flex-flow: column nowrap;**
+- Coloca o conteúdo em coluna e não permite a quebra de linha.
+
+```html
+	<h1>flex-flow: row nowrap;</h1>
+	<section class="container row-nowrap">
+		<div class="item">TesteDoItem1</div>
+		<div class="item">TesteDoItem2</div>
+		<div class="item">TesteDoItem3</div>
+	</section>
+
+	<h1>flex-flow: row wrap;</h1>
+	<section class="container row-wrap">
+		<div class="item">TesteDoItem1</div>
+		<div class="item">TesteDoItem2</div>
+		<div class="item">TesteDoItem3</div>
+	</section>
+
+	<h1>flex-flow: column-nowrap;</h1>
+	<section class="container column-nowrap">
+		<div class="item">TesteDoItem1</div>
+		<div class="item">TesteDoItem2</div>
+		<div class="item">TesteDoItem3</div>
+	</section>
+```
+
+```css
+.row-nowrap {
+	flex-flow: row nowrap;
+}
+.column-nowrap {
+	flex-flow: column nowrap;
+}
+.row-wrap {
+	flex-flow: row wrap;
+}
+
+/* Flex Container */
+	.container {
+		max-width: 360px;
+		margin: 0 auto;
+		display: flex;
+		border: 1px solid #ccc;
+	}
+	/* Flex Item */
+	.item {
+		/* O flex: 1; é necessário para que cada item se expanda ocupando o tamanho máximo do container. */
+		flex: 1;
+		margin: 5px;
+		background: tomato;
+		text-align: center;
+		font-size: 1.5em;
+	}
+
+	h1 {
+		text-align: center;
+		margin: 20px 0 0 0;
+		font-size: 1.25em;
+		font-weight: normal;
+	}
+
+	body {
+		font-family: monospace;
+		color: #333;
+	}
+```
+
+### Justify Content
+
+Alinha os itens flex no container de acordo com a direção. A propriedade só funciona se os itens atuais não ocuparem todo o container. Isso significa que ao definir flex: 1; ou algo similar nos itens, a propriedade não terá mais função
+
+Excelente propriedade para ser usada em casos que você deseja alinhar um item na ponta esquerda e outro na direita, como em um simples header com marca e navegação.
+
+**justify-content: flex-start;**
+- Alinha os itens ao início do container.
+**justify-content: flex-end;**
+- Alinha os itens ao final do container.
+**justify-content: center;**
+- Alinha os itens ao centro do container.
+**justify-content: space-between;**
+- Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.
+**justify-content: space-around;**
+- Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.
